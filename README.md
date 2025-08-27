@@ -1,4 +1,4 @@
-Rememer to install these:
+Remember to install these:
 - [Alacritty](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
 - [Btop](https://github.com/aristocratos/btop)
 - [Zsh and Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#prerequisites)
