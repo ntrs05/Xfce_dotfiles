@@ -5,8 +5,8 @@ Remember to install these:
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 <p align="center">
-        <img src="/screenshots/Screenshot_2025-08-27_12-23-47.png" />
+        <img src="/screenshots/Screenshot1.png" />
 </p>
 <p align="center">
-        <img src="/screenshots/Screenshot_2025-08-27_12-25-09.png" />
+        <img src="/screenshots/Screenshot2.png" />
 </p>
