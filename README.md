@@ -7,8 +7,6 @@ Remember to install these:
 <p align="center">
         <img src="/screenshots/Screenshot1.png" />
 </p>
-<p align="center">
-        <img src="/screenshots/Screenshot2.png" />
 </p>
 <p align="center">
         <img src="/screenshots/Screenshot3.png" />
